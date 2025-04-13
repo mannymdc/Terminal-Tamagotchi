@@ -1,0 +1,3 @@
+to run open up command prompt and run the following (or run on IntelliJ):
+
+java -jar C:\Users\User\Downloads\Terminal_Tamagotchi_jar\Terminal_Tamagotchi.jar
